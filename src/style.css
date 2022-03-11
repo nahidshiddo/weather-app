@@ -1,9 +1,10 @@
 body {
   font-family: arial, sans-serif;
+  background-color: rgb(152, 199, 228);
 }
 
 h1 {
-  color: #878787;
+  color: rgb(28, 27, 27);
   font-size: 24px;
   font-weight: 100;
   line-height: 28px;
@@ -20,7 +21,7 @@ li {
 
   margin: 0;
   padding: 0;
-  color: rgb(135, 135, 135);
+  color: rgb(28, 27, 27);
   font-size: 16px;
   font-weight: 100;
   line-height: 19px;
@@ -37,7 +38,7 @@ li::first-letter {
 
 .weather-app {
   padding: 20px;
-  border: 1px solid #dadde1;
+  border: 1px solid #7889a0;
   border-radius: 5px;
 }
 
@@ -52,7 +53,7 @@ li::first-letter {
 }
 
 .weather-temperature strong {
-  color: rgb(33, 33, 33);
+  color: rgb(28, 27, 27);
   font-size: 64px;
   font-weight: 400;
   line-height: 1;
